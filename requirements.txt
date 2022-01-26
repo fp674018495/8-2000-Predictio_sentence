@@ -1,0 +1,10 @@
+jieba==0.42.1
+joblib==0.17.0
+matplotlib==3.3.3
+numpy==1.19.2
+scikit_learn==1.0.1
+thulac==0.2.1
+torch==1.8.0
+torchmetrics==0.6.0
+tqdm==4.49.0
+transformers==3.2.0
